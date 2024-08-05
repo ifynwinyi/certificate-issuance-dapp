@@ -2,8 +2,8 @@
     "name": "real-certify-dapp",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/<name>/real-certify-dapp.git",
-    "author": "<name> <email>",
+    "repository": "https://github.com/ifynwinyi/certificate-issuance-dapp",
+    "author": "ifynwinyi ifeomanwinyinya604@gmail.com",
     "license": "MIT",
     "private": true,
     "dependencies": {
